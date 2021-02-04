@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+---
+title-heading: false
+---
+
+# This is my custom heading
+
+Imperial Bot
