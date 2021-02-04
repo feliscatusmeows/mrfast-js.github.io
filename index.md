@@ -7,32 +7,58 @@ If you want to suggest a command to add please create an issue [here](https://gi
 ## What can I do?
 
 Commands in-game :
-* !help - self explainatory
-* !report - joke command
-* !ping - shows your ping
-* !discord - shows your discord link
-* !coords - the bots coords
-* !kill - ouch!
-* !locate - get someones base coords 
-* !2bqueue - 2b2t queue
-* !no - NO!
-* !yes - YES!
-* !sleep - goodnight
-* !dupe - dont tell admins
-* !2bstats - 2b2t statistics
-* !kit - Free kits!
-* !rules - its the rules..
-* !op - get operator status
-* !deop - remove operator status
-* !server - server info
-* !gm - free creative
-* !lastwords - whats your last words...
-* !firstwords - whats your first words...
-* !home - tp to your home
-* !sethome - set your home
-* !delhome - delete your home
-* !jm | !joinmessage - your join message
-* !lm | !leavemessage - your leave message
-* !jd | !joindate - your joindate
+• !tps - Shows TPS of the server.
+
+• !rules - Shows the server rules.
+
+• !kill <player> - Kill a player.
+
+• !2bqueue - Tells you the length of the priority and normal queue on 2b2t.org.
+
+• !2bstats <player> - Tells you player stats on 2b2t.org.
+
+• !no - Makes the bot say NO.
+
+• !yes - Makes the bot say YES.
+
+• !sleep - Tells you if you can sleep or not.
+
+• !dupe <item> - Dupe an item.
+
+• !coords - Tells you bot coordinates.
+
+• !locate <player> - Shows the coordinates of any player.
+
+• !op <player> - Deops a player.
+
+• !deop <player> - Ops a player.
+
+• !discord - Get the server discord.
+
+• !server <ip> - Check the information about the minecraft server.
+
+• !gamemode | !gm <mode> <player> - Сhanges the player's gamemode.
+
+• !savemsg <message> - Save a message to be played back later with !playmsg.
+
+• !playmsg - Play a message you saved from !savemsg.
+
+• !firstwords - Shows the first words a player said.
+
+• !lastwords - Shows last words a person has said.
+
+• !report <player> <reason> - Reports a player.
+
+• !home - Teleport to the home.
+
+• !sethome - Sets your home.
+
+• !delhome - Deletes your home.
+
+• !lm | !leavemessage <message> - Sets leave message.
+
+• !jm | !joinmessage <message> - Sets join message.
+
+• !jd | !joindate - Tells you your join date.
 
 I also auto accept all /tpa's
