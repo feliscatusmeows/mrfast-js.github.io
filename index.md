@@ -22,10 +22,10 @@ Commands in-game :
 * !deop <player> - Ops a player.
 * !discord - Imperial's Discord.
 * !server <ip> - Check the information about a minecraft server.
-* !gamemode <mode> (player) - Сhanges the player's gamemode.
+* !gamemode - Сhanges the player's gamemode.
 * !firstwords - Shows the first words a player said.
 * !lastwords - Shows last words a person has said.
-* !report <player> <reason> - Reports a player.
+* !report \<player> <reason> - Reports a player.
 * !home - Teleport to the home.
 * !sethome - Sets your home.
 * !delhome - Deletes your home.
