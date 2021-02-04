@@ -32,4 +32,4 @@ Commands in-game :
 * !jm \| !joinmessage \<message> - Sets join message.
 * !jd \| !joindate - Tells you your join date.
 
-I also auto accept all /tpa's
+The bot also accepts all /tpa's for easy access to spawn
