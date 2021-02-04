@@ -1,6 +1,6 @@
 # About Me
 
-This bot was made by me(MrFast#1000) for the Imperials.
+This bot was made for the Imperials by me. (MrFast#1000)<br />
 If you want to suggest a command to add please message me [here](https://discord.gg/3QG8tt4PTQ)
 
 ## What can it do?
