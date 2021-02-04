@@ -20,17 +20,17 @@ Commands in-game :
 * !locate <player> - Shows the coordinates of any player.
 * !op <player> - Deops a player.
 * !deop <player> - Ops a player.
-* !discord - Get the server discord.
-* !server <ip> - Check the information about the minecraft server.
-* !gamemode (mode) (player) - Сhanges the player's gamemode.
+* !discord - Imperial's Discord.
+* !server <ip> - Check the information about a minecraft server.
+* !gamemode <mode> (player) - Сhanges the player's gamemode.
 * !firstwords - Shows the first words a player said.
 * !lastwords - Shows last words a person has said.
 * !report <player> <reason> - Reports a player.
 * !home - Teleport to the home.
 * !sethome - Sets your home.
 * !delhome - Deletes your home.
-* !lm | !leavemessage <message> - Sets leave message.
-* !jm | !joinmessage <message> - Sets join message.
-* !jd | !joindate - Tells you your join date.
+* !lm - Sets leave message.
+* !jm - Sets join message.
+* !jd - Tells you your join date.
 
 I also auto accept all /tpa's
