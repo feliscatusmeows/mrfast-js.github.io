@@ -15,7 +15,7 @@ Commands in-game :
 * !no - Makes the bot say NO.
 * !yes - Makes the bot say YES.
 * !sleep - Tells you if you can sleep or not.
-* !dupe <item> - Dupe an item.
+* !dupe "<item>" - Dupe an item.
 * !coords - Tells you bot coordinates.
 * !locate <player> - Shows the coordinates of any player.
 * !op <player> - Deops a player.
