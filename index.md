@@ -1,10 +1,10 @@
-# Imperial Bot
+# About Me
 
 Imperial anarchy bot made by MrFast#1000
 
 If you want to suggest a command to add please create an issue here https://github.com/MrFast-js/Imperial-Bot/issues
 
-## What can it do?
+## What can I do?
 
 Commands in-game :
 * !help (self explainatory)
