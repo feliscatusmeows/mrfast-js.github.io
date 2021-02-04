@@ -1,10 +1,9 @@
 # About Me
 
-Imperial anarchy bot made by MrFast#1000
+I made this to bot for the Imperials as there own kind of mooomooo bot basicly
+If you want to suggest a command to add please message me [here](https://discord.gg/3QG8tt4PTQ)
 
-If you want to suggest a command to add please create an issue [here](https://github.com/MrFast-js/Imperial-Bot/issues)
-
-## What can I do?
+## What can it do?
 
 Commands in-game :
 * !tps - Shows TPS of the server.
