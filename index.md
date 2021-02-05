@@ -34,5 +34,6 @@ Commands in-game :
 * !pt \| !playtime \<player> - Tells you a players playtime
 * !nword \<player> - Tells you how many times a player has said the nword.
 * !namemc \<player> - URL to the players namemc profile.
+* !seen \| !lastseen \<player> - Tells you the last time the bot saw a player online.
 
 The bot also accepts all /tpa's for easy access to spawn
