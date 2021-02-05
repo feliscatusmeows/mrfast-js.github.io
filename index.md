@@ -31,5 +31,7 @@ Commands in-game :
 * !lm \| !leavemessage \<message> - Sets leave message.
 * !jm \| !joinmessage \<message> - Sets join message.
 * !jd \| !joindate - Tells you your join date.
+* !nword - Tells you how many times you have said the nword.
+* !namemc \<player> - URL to the players namemc profile.
 
 The bot also accepts all /tpa's for easy access to spawn
