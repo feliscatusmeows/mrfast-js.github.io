@@ -14,6 +14,6 @@ Commands in-game :
 * $uuid - Gives yours or someone else’s UUID.
 * $kd \<player> - Check a players KDR
 * $kit \<name> - TPAs to you with a kit. WHITELISTED
-
+* *more soon*
 ## Changelog
   
